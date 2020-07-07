@@ -27,10 +27,10 @@ public class help extends CommandBase {
         //hoverable text
         style.setChatHoverEvent(new HoverEvent(HoverEvent.Action.SHOW_TEXT, new ChatComponentText(
                         "§3Help: " +
-                        "\n §bGo into setting " +
-                        "\n §bAnd change the KeyBinds" +
-                        "\n §5Mod made by:" +
-                        "\n §dPinkulu" )));
+                        "\n§bGo into setting " +
+                        "\n§bAnd change the KeyBinds" +
+                        "\n§5Mod made by:" +
+                        "\n§dPinkulu" )));
         //what shows in chat and than the hoverable text is registered
         IChatComponent text = new ChatComponentText( "§e " + HypixelShortCuts.NAME +" " + HypixelShortCuts.VERSION + " §7(hoverable text)").setChatStyle(style);
         //ads to chat

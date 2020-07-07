@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "HypixelShortCuts",
+  "name": "Hypixel Short Cuts",
+  "description": "do hypixel stuff with keybinds",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["pinkulu"],
+  "credits": "pinkulu",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
